@@ -6,7 +6,7 @@
 ### Pre-requisites
 
 - apache-opennlp
-- corenlp
+- coreNLP
 - Java SE8 (LTS) [minimum]
 
 check dependancies using opennlp CLI
@@ -18,5 +18,5 @@ Note that Java libraries are not system-wide, and hence classpaths need to lead 
 # Package files :
 
 ### Summarizer
-- Summarize(<String>,<int>) is a caller function
+- Summarize( String , int ) is the caller function
 - Summarize(String text, int maxSummarySize) : text = textual data that needs summarization, maxSummarySize = length of summary in sentences.
