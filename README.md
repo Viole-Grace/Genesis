@@ -14,3 +14,9 @@ check dependancies using opennlp CLI
 $ >opennlp
 ```
 Note that Java libraries are not system-wide, and hence classpaths need to lead to the same directory as where the package is located.
+
+Package files :
+
+# Summarizer
+- Summarize(<String>,<int>) is a caller function
+- Summarize(String text, int maxSummarySize) : text = textual data that needs summarization, maxSummarySize = length of summary in sentences.
