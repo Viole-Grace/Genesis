@@ -20,3 +20,7 @@ Note that Java libraries are not system-wide, and hence classpaths need to lead 
 ### Summarizer
 - Summarize( String , int ) is the caller function
 - Summarize(String text, int maxSummarySize) : text = textual data that needs summarization, maxSummarySize = length of summary in sentences.
+
+### Keywords
+- Extract( String , String , String , String ) is the caller function
+- Extract( String user_text, String language, String notInTag, String inTag ) : user_text = text from which keywords need to be extracted, language = language of the given text, notInTag = PoS tag to be overlooked / negated, inTag = PoS tag to be searched for.
