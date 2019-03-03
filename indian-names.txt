@@ -1,0 +1,412 @@
+<START:person> A.K. Hangal <END> is a person widely known in the indian cinematic universe.
+The actor <START:person> Aadi Pudipeddi <END> has also been phenomenal in certain strata of the indian population, often playing a side role.
+This is a stark contrast to <START:person> Aamir Khan <END> who is ofen regarded as the perfectionist in the Bollywood standard. His work is considered some of the best among a top class of actors and artists.
+<START:person> Aashish Chaudhary <END> also identifies with the cinematic classic pertaining to the subcontinent.
+A major artist in his field, <START:person> Abhay Deol <END> is a professional that has had phenomenal successes, one after another. Many consider <START:person> Abhishek Bacchan <END> to be a shining star, although the artist has seen a widely disproportional career run. Attributed to his father, his skill doesn't go unnoticed - but he is yet to gain respect as more than just the Big B's son. An inspirational character, <START:person> Abhishek Chatterjee <END> has had a decent run of the industry, but has moved away to a sub-strata for the grass root level of operation. Similar is the case of <START:person> Aftab Shivdasani <END>, who has not seen the limelight for quite a while.
+
+<START:person> Preity Zinta<END> has been a heart-throb of many a young audience, being a successful actress and an entrepreneur, she has had many an award to her name. Finding her in any modern day movie is a slightly foxy job, since she ha stayed away for the better part of the decade. <START:person> Akshay Anand<END> is yet to see any spotlight truly attributed to himself.
+<START:person> Akshay Anand <END>
+
+<START:person> Aju Varghese<END>, also an actor of the bollywood class, is yet to make a major screen appearance.
+<START:person> Abbas <END> has had a similar case with short run ins on the golden screen. <START:person> Abhijeeth <END> is one of many promising faces that the indian cinematic demograph has to offer.
+
+<START:person> Abhijeet <END> , <START:person> Abijeet Duddala <END> , <START:person> Abir Chatterjee <END> , <START:person> Achyuth Kumar <END> and <START:person> Adharvaa <END> all identify as major south indian cinema enthusiasts, and hence have a majority of their work in the same strata.
+
+<START:person> Adhyayan Suman <END> on the other hand has had works widely ranging in any form of the county, alongwith co-star <START:person> Adil Hussain <END> as her male counterpart.
+
+<START:person> Adithya Menon <END> has had a lot of controversy against <START:person> Aitya Babu <END>, both being actors for opposing roles and ideas.
+<START:person> Aditya Pancholi <END>'s work shows as it shines like a masterpiece. It is but a testament to the Pancholi family for their regular and ungiving attitude towards their respective professions.
+<START:person> Aditya Roy Kapoor <END> has had many a good run alongwith co-stars <START:person> Adoor Bhasi <END> and <START:person> Ahuti Prasad <END>, but has seen his popularity dimly tumbling since he hasnt had much opportunity to hone and show his acting skill.
+
+<START:person> Ajay Devgn <END> is a tempered actor, often being the centre of attention in any movie he starrs in. His co-stars respect his work, and his early works include some of the well known indian classics. 
+<START:person> Ajay Rao <END> and <START:person> Ajaz Khan <END> have been butting heads, despite being in different parts and times of their career points. It is unknown why such information is required to collect a simple dataset.
+<START:person> Ajinkya Dev <END> is best known for nothing but talent. His talent supercedes his expertise and knowledge in arts and acting, and many thing he would be better suited to the former field. <START:person> Ajit Khan <END> has also had similar ideas about him, which has let to heated arguments in the past, albeit of the non-violent manner.
+<START:person> Ajith Kumar <END> and <START:person> Ajmal Ameer <END> are two actors and artists I have no idea about, but I'm writing this dataset all the same. 
+
+<START:person> Aju Varghese <END> : "Are you not a friend of <START:person> Akshay Anand <END> ?"
+<START:person> Akshay Kumar <END> : "Why, yes I am. How did you know?"
+
+Another artist best known for his skill in dialogues is <START:person> Akshaye Khanna <END>, who can only be called a linguistic genius. His starring partners have often commended his punctuality, including <START:person> Akul Balaji <END> and <START:person> Ali Basha <END>, as different as their tastes may be.
+
+Hi, my name is <START:person> Allari Naresh <END> how much is a taxi from Ostbahnhof to Hauptbahnhof?
+About 10 Euro, I reckon.
+A heart-throb again of the South Indian cinema, this actor is none other than <START:person> Allu Arjun <END>, who has had smashing success as the poster boy for strong, boyish characters in the industry. He is not to be mistaken for <START:person> Allu Sirish <END>, who has no idea about what he is doing in life - much like myself, typing away at this boring keyboard. 
+
+An artist attributed with sanskaar and indian respect standards is the artist <START:person> Alok Nath <END>, although he has had his share of conflicting roles throughout his career as well.
+<START:person> Amar Talwar <END>
+<START:person> Ambareesh <END>
+<START:person> Amitabh Bachchan <END>
+<START:person> Amjad Khan <END>
+<START:person> Amol Palekar <END>
+<START:person> Amrish Puri <END>
+<START:person> Ananth Nag <END>
+<START:person> Anil Kapoor <END>
+<START:person> Aniruddha Jatkar <END>
+<START:person> Anjan Srivastav <END>
+<START:person> Ankush Hazra <END>
+<START:person> Annu Kapoor <END>
+<START:person> Anoop Kumar <END>
+<START:person> Anoop Menon <END>
+<START:person> Anubhav Mohanty <END>
+<START:person> Anuj Gurwara <END>
+<START:person> Anupam Kher <END>
+<START:person> Aravid Akash <END>
+<START:person> Arbaaz Khan <END>
+<START:person> Arif Zakaria <END>
+<START:person> Arjun Kapoor <END>
+<START:person> Arjun Mathur <END>
+<START:person> Arjun Rampal <END>
+<START:person> Arjun Sarja <END>
+<START:person> Arshad Warsi <END>
+<START:person> Arun Sarnaik <END>
+<START:person> Arunoday Singh <END>
+<START:person> Arvind Krishna <END>
+<START:person> Arvind Swamy <END>
+<START:person> Arya Babbar <END>
+<START:person> Arya Cethirakath <END>
+<START:person> Asif Ali <END>
+<START:person> Ashish Vidyarthi <END>
+<START:person> Ashok <END>
+<START:person> Ashok Kumar <END>
+<START:person> Asrani <END>
+<START:person> Ashok Saraf <END>
+<START:person> Ashok Selvan <END>
+<START:person> Attakathi Dinesh <END>
+<START:person> Atul Agnihotri <END>
+<START:person> Atul Kulkarni <END>
+<START:person> Auditya <END>
+<START:person> Avinash <END>
+<START:person> Ayushman Khurana <END>
+<START:person> B. C. Patil <END>
+<START:person> B. R. Panthulu <END>
+<START:person> Baburaj <END>
+<START:person> Babu Antony <END>
+<START:person> Balakrishna <END>
+<START:person> Balakrishna Nandamuri <END>
+<START:person> Balan K. Nair <END>
+<START:person> Balaraj <END>
+<START:person> Balraj Sahni <END>
+<START:person> Bank Janardhan <END>
+<START:person> Barun Sobti <END>
+<START:person> Benjamin Gilani <END>
+<START:person> Bhagwan Dada <END>
+<START:person> Bhanu Chander <END>
+<START:person> Bharat Bhushan <END>
+<START:person> Bharat Jadhav <END>
+<START:person> Bharat Gopi <END>
+<START:person> Bharat Srinivasan <END>
+<START:person> Bharathiraja <END>
+<START:person> Bank Janardhan <END>
+<START:person> Bijon Bhattacharya <END>
+<START:person> Biju Menon <END>
+<START:person> Biswajit Chatterjee <END>
+<START:person> Bob Christo <END>
+<START:person> Bobby Deol <END>
+<START:person> Bobby Kottarakkara <END>
+<START:person> Bobby Sinha <END>
+<START:person> Boman Irani <END>
+<START:person> Brahmanandam <END>
+<START:person> Bullet Prakash <END>
+<START:person> C. R. Simha <END>
+<START:person> Chandra Mohan <END>
+<START:person> Chandrachur Singh <END>
+<START:person> Charan Raj <END>
+<START:person> Charlie <END>
+<START:person> Charu Hassan <END>
+<START:person> Chetan Chandra <END>
+<START:person> Chetan Kumar <END>
+<START:person> Chhabi Biswas <END>
+<START:person> Chi. Guru Datt <END>
+<START:person> Chinni Jayanth <END>
+<START:person> Chikkanna <END>
+<START:person> Chiranjeevi Konidala <END>
+<START:person> Chiranjeevi Sarja <END>
+<START:person> Chittor V. Nagaiah <END>
+<START:person> Chunkey Pandey <END>
+<START:person> Crazy Mohan <END>
+<START:person> Cyrus Sahukar <END>
+<START:person> Dada Kondke <END>
+<START:person> Dalip Tahil <END>
+<START:person> Dara Singh <END>
+<START:person> Darshan <END>
+<START:person> Darsheel Safary <END>
+<START:person> Dattatreya <END>
+<START:person> David <END>
+<START:person> Deepak Dobriyal <END>
+<START:person> Deepak Tijori <END>
+<START:person> Dev <END>
+<START:person> Dev Anand <END>
+<START:person> Dev Gill <END>
+<START:person> Devan <END>
+<START:person> Devaraj <END>
+<START:person> Devan Verma <END>
+<START:person> Dharmavarapu Subramanyam <END>
+<START:person> Dharmendra <END>
+<START:person> Dhanush <END>
+<START:person> Dheerandra Gopal <END>
+<START:person> Dhruva Sarja <END>
+<START:person> Dignath <END>
+<START:person> Dinesh <END>
+<START:person> Dingri Nagaraj <END>
+<START:person> Dino Morea <END>
+<START:person> Dileep <END>
+<START:person> Diljeet Dosanjh <END>
+<START:person> Dilip Kumar <END>
+<START:person> Dilip Prabhavalkar <END>
+<START:person> Doddanna <END>
+<START:person> Dilquer Salmaan <END>
+<START:person> Duniya Vijay <END>
+<START:person> Dwarakish <END>
+<START:person> Emraan Hashmi <END>
+<START:person> Erick Avari <END>
+<START:person> Fahadh Faasil <END>
+<START:person> Faisal Khan <END>
+<START:person> Fardeen Khan <END>
+<START:person> Farhan Akhtar <END>
+<START:person> Farooq Sheikh <END>
+<START:person> Feroz Khan <END>
+<START:person> Fish Venkat <END>
+<START:person> Fawad Khan <END>
+<START:person> G. K. Govinda Rao <END>
+<START:person> G. V. Iyer <END>
+<START:person> Ganesh <END>
+<START:person> Ganesh Venkatraman <END>
+<START:person> Gangadhar <END>
+<START:person> Gaurav Chanana <END>
+<START:person> Gautham Karthik <END>
+<START:person> Gautham Menon <END>
+<START:person> Gavie Chahal <END>
+<START:person> Gemini Ganesan <END>
+<START:person> Gireesh Sahadev <END>
+<START:person> Giri Babu <END>
+<START:person> Girish Karnad <END>
+<START:person> Girish Kumar Taurani <END>
+<START:person> Gurmeet Chaudhary <END>
+<START:person> Goundamani <END>
+<START:person> Govinda <END>
+<START:person> Gubbi Veeranna <END>
+<START:person> Gulshan Devaiah <END>
+<START:person> Gulshan Grover <END>
+<START:person> Gummadi Venkateswara Rao <END>
+<START:person> Gurdas Maan <END>
+<START:person> Guru Datt <END>
+<START:person> Gurukiran <END>
+<START:person> Guruprasad <END>
+<START:person> Gopichand Lagadapati <END>
+<START:person> Hamsavardhan <END>
+<START:person> Harbhajan Mann <END>
+<START:person> Harikrishna Nandamuri <END>
+<START:person> Harish Kumar <END>
+<START:person> Harish Raj <END>
+<START:person> Harshvardhan Rane <END>
+<START:person> Harisree Ashokan <END>
+<START:person> Harman Baweja <END>
+<START:person> Harsh Mayar <END>
+<START:person> Hiran Chatterjee <END>
+<START:person> Hiten Paintal <END>
+<START:person> Hrithik Roshan <END>
+<START:person> Himesh Reshammiya <END>
+<START:person> Honnappa Bhagavathar <END>
+<START:person> Honnavalli Krishna <END>
+<START:person> Hunsur Krishnamurthy <END>
+<START:person> Hyder Kazmi <END>
+<START:person> I. S. Johar <END>
+<START:person> Iftekar <END>
+<START:person> Imran Hasnee <END>
+<START:person> Imran Khan <END>
+<START:person> Indrajit Sukumaran <END>
+<START:person> Indrans <END>
+<START:person> Inderpal Singh <END>
+<START:person> Innocent Vincent <END>
+<START:person> Irrfan Khan <END>
+<START:person> Inaamulhaq <END>
+<START:person> Mahendra Singh Dhoni <END>
+<START:person> M. S. Dhoni <END>
+<START:person> J. P. Chandrababu <END>
+<START:person> J. V. Somayajulu <END>
+<START:person> Jackie Shroff <END>
+<START:person> Jagadish <END>
+<START:person> Jagapati Babu <END>
+<START:person> Jagathy Sreekumar <END>
+<START:person> Jagdeep <END>
+<START:person> Jagdish Raj <END>
+<START:person> Jaggesh <END>
+<START:person> Jai <END>
+<START:person> Jaishankar <END>
+<START:person> Jai Akash <END>
+<START:person> Jai Jagadish <END>
+<START:person> Jaspal Bhatti <END>
+<START:person> Jatin Bora <END>
+<START:person> Jaya Prakash Reddy <END>
+<START:person> Jayadev Mohan <END>
+<START:person> Jayam Ravi <END>
+<START:person> Jayan <END>
+<START:person> Jayant <END>
+<START:person> Jayaram <END>
+<START:person> Jayram Karthik <END>
+<START:person> Jayasurya <END>
+<START:person> Jeet <END>
+<START:person> Jeetendra <END>
+<START:person> Jeeva <END>
+<START:person> Jeevan <END>
+<START:person> Jhanak Shukla <END>
+<START:person> Jiiva <END>
+<START:person> Jimmy Shergil <END>
+<START:person> Jisshu Sengupta <END>
+<START:person> Jithan Ramesh <END>
+<START:person> Joe Simon <END>
+<START:person> John Abraham <END>
+<START:person> Johnny Lever <END>
+<START:person> Johnny Walker <END>
+<START:person> Joseph Vijay <END>
+<START:person> Joy Mukherjee <END>
+<START:person> Jugal Hansraj <END>
+<START:person> Lavrenti Lopes <END>
+<START:person> Lekh Tandon <END>
+<START:person> Lawrence Raghavendra <END>
+<START:person> Laxmikanth Berde <END>
+<START:person> Lekh Tandon <END>
+<START:person> Lohithaswa <END>
+<START:person> Lokesh <END>
+<START:person> Loknath <END>
+<START:person> Aloknath <END>
+<START:person> Lucky Ali<END>
+<START:person> Luv Sinha <END>
+<START:person> Omkar Kapoor <END>
+<START:person> Oduvil Onnikrishnan <END>
+<START:person> Om Puri <END>
+<START:person> Om Shivpuri <END>
+<START:person> Omi Vaidya <END>
+<START:person> Om Prakash <END>
+<START:person> Paresh Rawal <END>
+<START:person> Pankaj Kapoor <END>
+<START:person> Prabhu Deva <END>
+<START:person> Prabhu Ganesan <END>
+<START:person> Pradeep Kumar <END>
+<START:person> Pradeep Rawat <END>
+<START:person> Prajwal Devaraj <END>
+<START:person> Prakash Raj <END>
+<START:person> Prasanna <END>
+<START:person> Prathap <END>
+<START:person> Prem <END>
+<START:person> Prem Chopra <END>
+<START:person> Prem Kumar <END>
+<START:person> Prem Nath <END>
+<START:person> Prithviraj Ballireddy <END>
+<START:person> Prithviraj Kapoor <END>
+<START:person> Prithviraj Sukumaran <END>
+<START:person> Puneet Issar <END>
+<START:person> Puneet Rajkumar <END>
+<START:person> Puri Jagannadh <END>
+<START:person> R. Madhavan <END>
+<START:person> Raghu Babu <END>
+<START:person> Rahman <END>
+<START:person> A. R. Rahman <END>
+<START:person> Rahul Roy <END>
+<START:person> Rahul Dev <END>
+<START:person> Raj Kapoor <END>
+<START:person> Raj Babbar <END>
+<START:person> Raja Shankar <END>
+<START:person> Rajanand <END>
+<START:person> Rajkumar <END>
+<START:person> Rajendra Nath <END>
+<START:person> Rajinikanth <END>
+<START:person> Ram Kapoor <END>
+<START:person> Ram <END>
+<START:person> Laxman <END>
+<START:person> Sita <END>
+<START:person> Rajeev Verma <END>
+<START:person> Rajpal Yadav <END>
+<START:person> Virat Kohli <END>
+<START:person> Rakesh Roshan <END>
+<START:person> Raju Srivastav <END>
+<START:person> Kiran Bedi <END>
+<START:person> Ramakrishna <END>
+<START:person> Ranbir Singh <END>
+<START:person> Ranbir Kapoor <END>
+<START:person> Randeep Hooda <END>
+<START:person> Randhir Kapoor <END>
+<START:person> Ravichandran <END>
+<START:person> Rishi Kapoor <END>
+<START:person> Riteish Deshmukh <END>
+<START:person> Riyaz Khan <END>
+<START:person> Rohit Roy <END>
+<START:person> Roshan Seth <END>
+<START:person> Tarun Arora <END>
+<START:person> Tiger Shroff <END>
+<START:person> Tusshar Kapoor <END>
+<START:person> Tarun Kumar <END>
+<START:person> Uday Chopra <END>
+<START:person> Uday Kiran <END>
+<START:person> Udaykumar <END>
+<START:person> Upen Patel <END>
+<START:person> Upendra <END>
+<START:person> Varun Dhawan <END>
+<START:person> Varun Tej <END>
+<START:person> Venkatesh <END>
+<START:person> Venu Madhav <END>
+<START:person> Vijay Arora <END>
+<START:person> Vijayakumar <END>
+<START:person> Vikranth <END>
+<START:person> Vinay Apte <END>
+<START:person> Vimal <END>
+<START:person> Vinay Pathak <END>
+<START:person> Vineeth <END>
+<START:person> Vinod Khanna <END>
+<START:person> Vipin Sharma <END>
+<START:person> Vishal Krishna <END>
+<START:person> Vishal Karwal <END>
+<START:person> Vivek <END>
+<START:person> Vivek Oberoi <END>
+<START:person> Yash Gowda <END>
+<START:person> Yash Pandit <END>
+<START:person> Yash Tandon <END>
+<START:person> Yashraj <END>
+<START:person> Yash Tonk <END>
+<START:person> Yatin Karyekar <END>
+<START:person> Yogesh <END>
+<START:person> Yugendran <END>
+<START:person> Yuhi Sethu <END>
+<START:person> Zayed Khan <END>
+<START:person> Zain Malik <END>
+<START:person> Zulfi Syed <END>
+<START:person> Wazir Ali <END>
+<START:person> Mohammad Nisar <END>
+<START:person> Nazir Ali <END>
+<START:person> Mushtaq Ali <END>
+<START:person> Harbhajan Singh <END>
+<START:person> Sunil Gavaskar <END>
+<START:person> Kapil Dev <END>
+<START:person> Yuvraj Singh <END>
+<START:person> Sachin Tendulkar <END>
+<START:person> Rahul Dravid <END>
+<START:person> Ashish Nehra <END>
+<START:person> Mohammad Kaif <END>
+<START:person> Virender Sehwag <END>
+<START:person> Parthiv Patel <END>
+<START:person> Hardik Pandya <END>
+<START:person> Yuvraj Singh <END>
+<START:person> Dinesh Karthik <END>
+<START:person> S. Sreesanth <END>
+<START:person> Ishant Sharma <END>
+<START:person> Muralidharan <END>
+<START:person> Murali Vijay <END>
+<START:person> Cheteshwar Pujara <END>
+<START:person> Ravichandran Ashwin <END>
+<START:person> Ravindra Jadeja <END>
+<START:person> Bhuvneshwar Kumar <END>
+<START:person> Shikhar Dhawan <END>
+<START:person> Mohammed Shami <END>
+<START:person> Rohit Sharma <END>
+<START:person> KL Rahul <END>
+<START:person> Kuldeep Yadav <END>
+<START:person> Jasprit Bumrah <END>
+<START:person> Rishabh Pant <END>
+<START:person> Hanuma Vihari <END>
+<START:person> Prithvi Shaw <END>
+<START:person> Shardul Thakur <END>
+<START:person> Mayank Agarwal <END>
+<START:person> Ajinkya Rahane <END>
+<START:person> Anil Kumble <END>
+<START:person> Sourav Ganguly <END>
+<START:person> Ravi Shastri <END>
